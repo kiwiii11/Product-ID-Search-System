@@ -1,0 +1,24 @@
+
+PRODUCT ID SEARCH SYSTEM
+EXPERIMENTAL COMPARISON
+
+Dataset: 30 unique product records
+
+DATA STRUCTURES:
+1. Binary Search Tree
+2. AVL Tree
+3. Hashing with Linear Probing
+
+EXPECTED RESULTS (TO BE VERIFIED):
+
+Parameter              BST    AVL    Hashing
+Total Records           30     30       30
+Tree Height             10      6       N/A
+Search ID 115            5      5        1
+Search ID 999           10      6        0
+Hash Collisions         N/A    N/A       0
+
+NOTE:
+These are calculated expected values from the
+current programs. Actual execution results must
+be verified before final submission.
