@@ -1,0 +1,35 @@
+
+PRODUCT ID     PRODUCT NAME
+--------------------------------
+105            Laptop
+102            Mouse
+108            Keyboard
+101            Monitor
+110            Printer
+103            Headphones
+107            Webcam
+104            Speaker
+112            Tablet
+106            Smartphone
+115            Router
+109            Scanner
+120            Microphone
+111            Projector
+118            HardDisk
+113            Pendrive
+125            SSD
+114            GraphicsCard
+122            Motherboard
+116            Processor
+130            RAM
+117            PowerSupply
+128            UPS
+119            CoolingFan
+135            PrinterInk
+121            MonitorStand
+132            LaptopBag
+123            USBHub
+140            EthernetCable
+124            WebcamStand
+--------------------------------
+TOTAL RECORDS: 30
